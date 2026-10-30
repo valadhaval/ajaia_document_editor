@@ -1,0 +1,7 @@
+Walkthrough video URL: TODO — record a 3–5 minute video and paste a public link here.
+Suggested outline:
+1. 0:00–0:30 — product goal and workspace
+2. 0:30–1:30 — create, rename, format, and refresh a document
+3. 1:30–2:15 — import .txt/.md and export Markdown
+4. 2:15–3:15 — share with Aarav, switch demo account, revoke access
+5. 3:15–4:00 — architecture, tests, trade-offs, and AI workflow
